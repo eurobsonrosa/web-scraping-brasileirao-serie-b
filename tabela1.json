@@ -1,0 +1,82 @@
+[
+    {
+        "posicao": "1",
+        "time": "Cruzeiro"
+    },
+    {
+        "posicao": "2",
+        "time": "Bahia"
+    },
+    {
+        "posicao": "3",
+        "time": "Sport"
+    },
+    {
+        "posicao": "4",
+        "time": "Vasco"
+    },
+    {
+        "posicao": "5",
+        "time": "Novorizontino"
+    },
+    {
+        "posicao": "6",
+        "time": "Grêmio"
+    },
+    {
+        "posicao": "7",
+        "time": "Operário-PR"
+    },
+    {
+        "posicao": "8",
+        "time": "Brusque"
+    },
+    {
+        "posicao": "9",
+        "time": "Criciúma"
+    },
+    {
+        "posicao": "10",
+        "time": "Chapecoense"
+    },
+    {
+        "posicao": "11",
+        "time": "Ituano"
+    },
+    {
+        "posicao": "12",
+        "time": "Sampaio Corrêa"
+    },
+    {
+        "posicao": "13",
+        "time": "Ponte Preta"
+    },
+    {
+        "posicao": "14",
+        "time": "Náutico"
+    },
+    {
+        "posicao": "15",
+        "time": "Londrina"
+    },
+    {
+        "posicao": "16",
+        "time": "Vila Nova"
+    },
+    {
+        "posicao": "17",
+        "time": "CSA"
+    },
+    {
+        "posicao": "18",
+        "time": "Guarani"
+    },
+    {
+        "posicao": "19",
+        "time": "CRB"
+    },
+    {
+        "posicao": "20",
+        "time": "Tombense"
+    }
+]

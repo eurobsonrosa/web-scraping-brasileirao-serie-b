@@ -1,0 +1,20 @@
+{
+  "name": "web-scraping-br-serieb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.11",
+    "express": "^4.18.1",
+    "puppeteer": "^14.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
